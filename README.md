@@ -25,9 +25,9 @@ Supports loading `.obj` models and allows intuitive mouse controls for rotation,
 
 ## Demo
 
-![Demo Screenshot](path/to/screenshot.png)
+![Demo Screenshot](images/Python3DModelViewerDemo2.JPG)
 
-*(Replace with an actual screenshot or GIF demonstrating the viewer)*
+
 
 
 ## Installation
